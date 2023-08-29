@@ -1,15 +1,15 @@
 # Blindness_Detection
 
 # Requirements :
-  python > 3.8
-  protobuf = 3.19.1 
-  Numpy 
-  pandas 
-  matplotlib
-  Tensorflow
-  Keras 
-  Pillow
-  Streamlit
+  python > 3.8,
+  protobuf = 3.19.1, 
+  Numpy,
+  pandas,
+  matplotlib,
+  Tensorflow,
+  Keras,
+  Pillow,
+  Streamlit,
 
 # Follow the steps :
 
